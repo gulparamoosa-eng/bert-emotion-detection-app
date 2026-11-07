@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 
 # ====== CHANGE THIS to your own Hugging Face model repo (from the Colab training) ======
-GPT_MODEL_ID = "YOUR_HF_USERNAME/balochi-gpt2"
+GPT_MODEL_ID = "gulparamoosa/balochi-gpt2"
 BERT_MODEL_ID = "AnasAlokla/multilingual_go_emotions"
 # ========================================================================================
 
